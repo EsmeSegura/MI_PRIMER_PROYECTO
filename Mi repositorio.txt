@@ -1,0 +1,2 @@
+¿Que es un repositorio? Es como un el diario de mi software
+¿Que podemos encontrar en el? El registro de las modificaciones que hize o si alguna persona hizo mas modificaciones.
