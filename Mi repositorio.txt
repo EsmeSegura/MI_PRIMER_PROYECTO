@@ -1,2 +1,3 @@
 ¿Que es un repositorio? Es como un el diario de mi software
 ¿Que podemos encontrar en el? El registro de las modificaciones que hize o si alguna persona hizo mas modificaciones.
+la diferencia de un repositorio publico y un pivado :que el privado si comparto el link nadie lo puede ver y el publico todos pueden ver lo que publique
